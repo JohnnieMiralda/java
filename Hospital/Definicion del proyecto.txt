@@ -1,0 +1,3 @@
+Proyecto sobre Hospital:
+
+Era un proyecto visual en java cuyo objetivo era manejar las citas de de los pacientes de un hospital.
